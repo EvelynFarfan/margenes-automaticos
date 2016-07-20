@@ -1,0 +1,15 @@
+/* Escribe aqui tu CSS */
+div{
+	border: 13px solid yellow;
+	width: 200px;
+	height: 200px;
+}
+.caja_uno{
+	text-align: center;
+	padding: 15px 30px;
+}
+.caja_dos{
+	margin-top: 5px;
+  margin-left: 450px;
+  padding: 15px 30px;
+}
